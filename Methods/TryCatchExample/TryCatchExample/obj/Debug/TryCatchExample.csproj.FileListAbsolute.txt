@@ -1,0 +1,6 @@
+/home/adamhalley/github/csharp/Methods/TryCatchExample/TryCatchExample/bin/Debug/TryCatchExample.exe
+/home/adamhalley/github/csharp/Methods/TryCatchExample/TryCatchExample/bin/Debug/TryCatchExample.pdb
+/home/adamhalley/github/csharp/Methods/TryCatchExample/TryCatchExample/obj/Debug/TryCatchExample.csproj.AssemblyReference.cache
+/home/adamhalley/github/csharp/Methods/TryCatchExample/TryCatchExample/obj/Debug/TryCatchExample.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/csharp/Methods/TryCatchExample/TryCatchExample/obj/Debug/TryCatchExample.exe
+/home/adamhalley/github/csharp/Methods/TryCatchExample/TryCatchExample/obj/Debug/TryCatchExample.pdb

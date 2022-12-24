@@ -1,0 +1,6 @@
+/home/adamhalley/github/csharp/project1/StringMethodChallenge2/StringMethodChallenge2/bin/Debug/StringMethodChallenge2.exe
+/home/adamhalley/github/csharp/project1/StringMethodChallenge2/StringMethodChallenge2/bin/Debug/StringMethodChallenge2.pdb
+/home/adamhalley/github/csharp/project1/StringMethodChallenge2/StringMethodChallenge2/obj/Debug/StringMethodChallenge2.csproj.AssemblyReference.cache
+/home/adamhalley/github/csharp/project1/StringMethodChallenge2/StringMethodChallenge2/obj/Debug/StringMethodChallenge2.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/csharp/project1/StringMethodChallenge2/StringMethodChallenge2/obj/Debug/StringMethodChallenge2.exe
+/home/adamhalley/github/csharp/project1/StringMethodChallenge2/StringMethodChallenge2/obj/Debug/StringMethodChallenge2.pdb

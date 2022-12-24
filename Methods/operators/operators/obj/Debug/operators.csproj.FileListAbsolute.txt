@@ -1,0 +1,6 @@
+/home/adamhalley/github/csharp/Methods/operators/operators/bin/Debug/operators.exe
+/home/adamhalley/github/csharp/Methods/operators/operators/bin/Debug/operators.pdb
+/home/adamhalley/github/csharp/Methods/operators/operators/obj/Debug/operators.csproj.AssemblyReference.cache
+/home/adamhalley/github/csharp/Methods/operators/operators/obj/Debug/operators.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/csharp/Methods/operators/operators/obj/Debug/operators.exe
+/home/adamhalley/github/csharp/Methods/operators/operators/obj/Debug/operators.pdb

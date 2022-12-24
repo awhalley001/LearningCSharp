@@ -1,0 +1,6 @@
+/home/adamhalley/github/csharp/Methods/LowerUpperExcercise/LowerUpperExcercise/bin/Debug/LowerUpperExcercise.exe
+/home/adamhalley/github/csharp/Methods/LowerUpperExcercise/LowerUpperExcercise/bin/Debug/LowerUpperExcercise.pdb
+/home/adamhalley/github/csharp/Methods/LowerUpperExcercise/LowerUpperExcercise/obj/Debug/LowerUpperExcercise.csproj.AssemblyReference.cache
+/home/adamhalley/github/csharp/Methods/LowerUpperExcercise/LowerUpperExcercise/obj/Debug/LowerUpperExcercise.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/csharp/Methods/LowerUpperExcercise/LowerUpperExcercise/obj/Debug/LowerUpperExcercise.exe
+/home/adamhalley/github/csharp/Methods/LowerUpperExcercise/LowerUpperExcercise/obj/Debug/LowerUpperExcercise.pdb

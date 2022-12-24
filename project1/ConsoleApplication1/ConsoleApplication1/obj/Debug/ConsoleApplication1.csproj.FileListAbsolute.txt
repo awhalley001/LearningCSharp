@@ -1,0 +1,6 @@
+/home/adamhalley/github/csharp/project1/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/home/adamhalley/github/csharp/project1/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/home/adamhalley/github/csharp/project1/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.AssemblyReference.cache
+/home/adamhalley/github/csharp/project1/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/csharp/project1/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/home/adamhalley/github/csharp/project1/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb

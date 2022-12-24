@@ -1,0 +1,6 @@
+/home/adamhalley/github/csharp/Methods/GreetFriends/GreetFriends/bin/Debug/GreetFriends.exe
+/home/adamhalley/github/csharp/Methods/GreetFriends/GreetFriends/bin/Debug/GreetFriends.pdb
+/home/adamhalley/github/csharp/Methods/GreetFriends/GreetFriends/obj/Debug/GreetFriends.csproj.AssemblyReference.cache
+/home/adamhalley/github/csharp/Methods/GreetFriends/GreetFriends/obj/Debug/GreetFriends.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/csharp/Methods/GreetFriends/GreetFriends/obj/Debug/GreetFriends.exe
+/home/adamhalley/github/csharp/Methods/GreetFriends/GreetFriends/obj/Debug/GreetFriends.pdb

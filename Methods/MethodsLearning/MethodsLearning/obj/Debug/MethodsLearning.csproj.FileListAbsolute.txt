@@ -1,0 +1,6 @@
+/home/adamhalley/github/csharp/Methods/MethodsLearning/MethodsLearning/obj/Debug/MethodsLearning.csproj.AssemblyReference.cache
+/home/adamhalley/github/csharp/Methods/MethodsLearning/MethodsLearning/obj/Debug/MethodsLearning.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/csharp/Methods/MethodsLearning/MethodsLearning/bin/Debug/MethodsLearning.exe
+/home/adamhalley/github/csharp/Methods/MethodsLearning/MethodsLearning/bin/Debug/MethodsLearning.pdb
+/home/adamhalley/github/csharp/Methods/MethodsLearning/MethodsLearning/obj/Debug/MethodsLearning.exe
+/home/adamhalley/github/csharp/Methods/MethodsLearning/MethodsLearning/obj/Debug/MethodsLearning.pdb
