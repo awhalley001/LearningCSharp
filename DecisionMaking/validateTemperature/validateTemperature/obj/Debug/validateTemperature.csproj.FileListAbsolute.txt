@@ -1,0 +1,6 @@
+/home/adamhalley/github/csharp/DecisionMaking/validateTemperature/validateTemperature/bin/Debug/validateTemperature.exe
+/home/adamhalley/github/csharp/DecisionMaking/validateTemperature/validateTemperature/bin/Debug/validateTemperature.pdb
+/home/adamhalley/github/csharp/DecisionMaking/validateTemperature/validateTemperature/obj/Debug/validateTemperature.csproj.AssemblyReference.cache
+/home/adamhalley/github/csharp/DecisionMaking/validateTemperature/validateTemperature/obj/Debug/validateTemperature.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/csharp/DecisionMaking/validateTemperature/validateTemperature/obj/Debug/validateTemperature.exe
+/home/adamhalley/github/csharp/DecisionMaking/validateTemperature/validateTemperature/obj/Debug/validateTemperature.pdb

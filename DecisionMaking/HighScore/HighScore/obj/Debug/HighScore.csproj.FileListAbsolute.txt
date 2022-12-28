@@ -1,0 +1,6 @@
+/home/adamhalley/github/csharp/DecisionMaking/HighScore/HighScore/bin/Debug/HighScore.exe
+/home/adamhalley/github/csharp/DecisionMaking/HighScore/HighScore/bin/Debug/HighScore.pdb
+/home/adamhalley/github/csharp/DecisionMaking/HighScore/HighScore/obj/Debug/HighScore.csproj.AssemblyReference.cache
+/home/adamhalley/github/csharp/DecisionMaking/HighScore/HighScore/obj/Debug/HighScore.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/csharp/DecisionMaking/HighScore/HighScore/obj/Debug/HighScore.exe
+/home/adamhalley/github/csharp/DecisionMaking/HighScore/HighScore/obj/Debug/HighScore.pdb

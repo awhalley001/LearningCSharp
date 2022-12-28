@@ -1,0 +1,6 @@
+/home/adamhalley/github/csharp/DecisionMaking/NestedIfs/NestedIfs/obj/Debug/NestedIfs.csproj.AssemblyReference.cache
+/home/adamhalley/github/csharp/DecisionMaking/NestedIfs/NestedIfs/obj/Debug/NestedIfs.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/csharp/DecisionMaking/NestedIfs/NestedIfs/bin/Debug/NestedIfs.exe
+/home/adamhalley/github/csharp/DecisionMaking/NestedIfs/NestedIfs/bin/Debug/NestedIfs.pdb
+/home/adamhalley/github/csharp/DecisionMaking/NestedIfs/NestedIfs/obj/Debug/NestedIfs.exe
+/home/adamhalley/github/csharp/DecisionMaking/NestedIfs/NestedIfs/obj/Debug/NestedIfs.pdb

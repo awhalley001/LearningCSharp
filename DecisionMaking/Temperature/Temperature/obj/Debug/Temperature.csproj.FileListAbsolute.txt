@@ -1,0 +1,6 @@
+/home/adamhalley/github/csharp/DecisionMaking/Temperature/Temperature/bin/Debug/Temperature.exe
+/home/adamhalley/github/csharp/DecisionMaking/Temperature/Temperature/bin/Debug/Temperature.pdb
+/home/adamhalley/github/csharp/DecisionMaking/Temperature/Temperature/obj/Debug/Temperature.csproj.AssemblyReference.cache
+/home/adamhalley/github/csharp/DecisionMaking/Temperature/Temperature/obj/Debug/Temperature.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/csharp/DecisionMaking/Temperature/Temperature/obj/Debug/Temperature.exe
+/home/adamhalley/github/csharp/DecisionMaking/Temperature/Temperature/obj/Debug/Temperature.pdb

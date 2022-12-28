@@ -1,0 +1,6 @@
+/home/adamhalley/github/csharp/DecisionMaking/TernaryOperators/TernaryOperators/bin/Debug/TernaryOperators.exe
+/home/adamhalley/github/csharp/DecisionMaking/TernaryOperators/TernaryOperators/bin/Debug/TernaryOperators.pdb
+/home/adamhalley/github/csharp/DecisionMaking/TernaryOperators/TernaryOperators/obj/Debug/TernaryOperators.csproj.AssemblyReference.cache
+/home/adamhalley/github/csharp/DecisionMaking/TernaryOperators/TernaryOperators/obj/Debug/TernaryOperators.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/csharp/DecisionMaking/TernaryOperators/TernaryOperators/obj/Debug/TernaryOperators.exe
+/home/adamhalley/github/csharp/DecisionMaking/TernaryOperators/TernaryOperators/obj/Debug/TernaryOperators.pdb

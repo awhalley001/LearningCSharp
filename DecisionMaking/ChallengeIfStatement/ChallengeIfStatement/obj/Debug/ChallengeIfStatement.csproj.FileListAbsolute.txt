@@ -1,0 +1,6 @@
+/home/adamhalley/github/csharp/DecisionMaking/ChallengeIfStatement/ChallengeIfStatement/obj/Debug/ChallengeIfStatement.csproj.AssemblyReference.cache
+/home/adamhalley/github/csharp/DecisionMaking/ChallengeIfStatement/ChallengeIfStatement/obj/Debug/ChallengeIfStatement.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/csharp/DecisionMaking/ChallengeIfStatement/ChallengeIfStatement/bin/Debug/ChallengeIfStatement.exe
+/home/adamhalley/github/csharp/DecisionMaking/ChallengeIfStatement/ChallengeIfStatement/bin/Debug/ChallengeIfStatement.pdb
+/home/adamhalley/github/csharp/DecisionMaking/ChallengeIfStatement/ChallengeIfStatement/obj/Debug/ChallengeIfStatement.exe
+/home/adamhalley/github/csharp/DecisionMaking/ChallengeIfStatement/ChallengeIfStatement/obj/Debug/ChallengeIfStatement.pdb
