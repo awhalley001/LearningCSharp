@@ -1,0 +1,6 @@
+/home/adamhalley/github/LearningCSharp/OOP/Properties/Properties/Properties/obj/Debug/Properties.csproj.AssemblyReference.cache
+/home/adamhalley/github/LearningCSharp/OOP/Properties/Properties/Properties/obj/Debug/Properties.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/LearningCSharp/OOP/Properties/Properties/Properties/bin/Debug/Properties.exe
+/home/adamhalley/github/LearningCSharp/OOP/Properties/Properties/Properties/bin/Debug/Properties.pdb
+/home/adamhalley/github/LearningCSharp/OOP/Properties/Properties/Properties/obj/Debug/Properties.exe
+/home/adamhalley/github/LearningCSharp/OOP/Properties/Properties/Properties/obj/Debug/Properties.pdb
