@@ -1,0 +1,6 @@
+/home/adamhalley/github/LearningCSharp/OOP/OOPBasics/ClassBasics/ClassBasics/bin/Debug/ClassBasics.exe
+/home/adamhalley/github/LearningCSharp/OOP/OOPBasics/ClassBasics/ClassBasics/bin/Debug/ClassBasics.pdb
+/home/adamhalley/github/LearningCSharp/OOP/OOPBasics/ClassBasics/ClassBasics/obj/Debug/ClassBasics.csproj.AssemblyReference.cache
+/home/adamhalley/github/LearningCSharp/OOP/OOPBasics/ClassBasics/ClassBasics/obj/Debug/ClassBasics.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/LearningCSharp/OOP/OOPBasics/ClassBasics/ClassBasics/obj/Debug/ClassBasics.exe
+/home/adamhalley/github/LearningCSharp/OOP/OOPBasics/ClassBasics/ClassBasics/obj/Debug/ClassBasics.pdb
