@@ -1,0 +1,6 @@
+/home/adamhalley/github/LearningCSharp/loops/basicloops/basicloops/bin/Debug/basicloops.exe
+/home/adamhalley/github/LearningCSharp/loops/basicloops/basicloops/bin/Debug/basicloops.pdb
+/home/adamhalley/github/LearningCSharp/loops/basicloops/basicloops/obj/Debug/basicloops.csproj.AssemblyReference.cache
+/home/adamhalley/github/LearningCSharp/loops/basicloops/basicloops/obj/Debug/basicloops.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/LearningCSharp/loops/basicloops/basicloops/obj/Debug/basicloops.exe
+/home/adamhalley/github/LearningCSharp/loops/basicloops/basicloops/obj/Debug/basicloops.pdb

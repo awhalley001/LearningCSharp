@@ -1,0 +1,6 @@
+/home/adamhalley/github/LearningCSharp/loops/AverageScore/AverageScore/bin/Debug/AverageScore.exe
+/home/adamhalley/github/LearningCSharp/loops/AverageScore/AverageScore/bin/Debug/AverageScore.pdb
+/home/adamhalley/github/LearningCSharp/loops/AverageScore/AverageScore/obj/Debug/AverageScore.csproj.AssemblyReference.cache
+/home/adamhalley/github/LearningCSharp/loops/AverageScore/AverageScore/obj/Debug/AverageScore.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/LearningCSharp/loops/AverageScore/AverageScore/obj/Debug/AverageScore.exe
+/home/adamhalley/github/LearningCSharp/loops/AverageScore/AverageScore/obj/Debug/AverageScore.pdb

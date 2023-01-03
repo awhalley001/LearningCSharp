@@ -1,0 +1,6 @@
+/home/adamhalley/github/LearningCSharp/loops/Exercise/Exercise/bin/Debug/Exercise.exe
+/home/adamhalley/github/LearningCSharp/loops/Exercise/Exercise/bin/Debug/Exercise.pdb
+/home/adamhalley/github/LearningCSharp/loops/Exercise/Exercise/obj/Debug/Exercise.csproj.AssemblyReference.cache
+/home/adamhalley/github/LearningCSharp/loops/Exercise/Exercise/obj/Debug/Exercise.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/LearningCSharp/loops/Exercise/Exercise/obj/Debug/Exercise.exe
+/home/adamhalley/github/LearningCSharp/loops/Exercise/Exercise/obj/Debug/Exercise.pdb

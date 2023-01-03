@@ -1,0 +1,6 @@
+/home/adamhalley/github/LearningCSharp/loops/BreakAndContinue/BreakAndContinue/bin/Debug/BreakAndContinue.exe
+/home/adamhalley/github/LearningCSharp/loops/BreakAndContinue/BreakAndContinue/bin/Debug/BreakAndContinue.pdb
+/home/adamhalley/github/LearningCSharp/loops/BreakAndContinue/BreakAndContinue/obj/Debug/BreakAndContinue.csproj.AssemblyReference.cache
+/home/adamhalley/github/LearningCSharp/loops/BreakAndContinue/BreakAndContinue/obj/Debug/BreakAndContinue.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/LearningCSharp/loops/BreakAndContinue/BreakAndContinue/obj/Debug/BreakAndContinue.exe
+/home/adamhalley/github/LearningCSharp/loops/BreakAndContinue/BreakAndContinue/obj/Debug/BreakAndContinue.pdb
