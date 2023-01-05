@@ -1,0 +1,6 @@
+/home/adamhalley/github/LearningCSharp/OOP/Members/MembersFinalizersDestructors/MembersFinalizersDestructors/bin/Debug/MembersFinalizersDestructors.exe
+/home/adamhalley/github/LearningCSharp/OOP/Members/MembersFinalizersDestructors/MembersFinalizersDestructors/bin/Debug/MembersFinalizersDestructors.pdb
+/home/adamhalley/github/LearningCSharp/OOP/Members/MembersFinalizersDestructors/MembersFinalizersDestructors/obj/Debug/MembersFinalizersDestructors.csproj.AssemblyReference.cache
+/home/adamhalley/github/LearningCSharp/OOP/Members/MembersFinalizersDestructors/MembersFinalizersDestructors/obj/Debug/MembersFinalizersDestructors.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/LearningCSharp/OOP/Members/MembersFinalizersDestructors/MembersFinalizersDestructors/obj/Debug/MembersFinalizersDestructors.exe
+/home/adamhalley/github/LearningCSharp/OOP/Members/MembersFinalizersDestructors/MembersFinalizersDestructors/obj/Debug/MembersFinalizersDestructors.pdb
