@@ -1,0 +1,6 @@
+/home/adamhalley/github/LearningCSharp/Collections/ValidInput/ValidInput/obj/Debug/ValidInput.csproj.AssemblyReference.cache
+/home/adamhalley/github/LearningCSharp/Collections/ValidInput/ValidInput/obj/Debug/ValidInput.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/LearningCSharp/Collections/ValidInput/ValidInput/bin/Debug/ValidInput.exe
+/home/adamhalley/github/LearningCSharp/Collections/ValidInput/ValidInput/bin/Debug/ValidInput.pdb
+/home/adamhalley/github/LearningCSharp/Collections/ValidInput/ValidInput/obj/Debug/ValidInput.exe
+/home/adamhalley/github/LearningCSharp/Collections/ValidInput/ValidInput/obj/Debug/ValidInput.pdb
