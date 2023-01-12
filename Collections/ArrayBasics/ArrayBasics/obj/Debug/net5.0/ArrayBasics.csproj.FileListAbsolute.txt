@@ -1,0 +1,16 @@
+C:\Users\adamh\Documents\GitHub\LearningCSharp\Collections\ArrayBasics\ArrayBasics\bin\Debug\net5.0\ArrayBasics.exe
+C:\Users\adamh\Documents\GitHub\LearningCSharp\Collections\ArrayBasics\ArrayBasics\bin\Debug\net5.0\ArrayBasics.deps.json
+C:\Users\adamh\Documents\GitHub\LearningCSharp\Collections\ArrayBasics\ArrayBasics\bin\Debug\net5.0\ArrayBasics.runtimeconfig.json
+C:\Users\adamh\Documents\GitHub\LearningCSharp\Collections\ArrayBasics\ArrayBasics\bin\Debug\net5.0\ArrayBasics.runtimeconfig.dev.json
+C:\Users\adamh\Documents\GitHub\LearningCSharp\Collections\ArrayBasics\ArrayBasics\bin\Debug\net5.0\ArrayBasics.dll
+C:\Users\adamh\Documents\GitHub\LearningCSharp\Collections\ArrayBasics\ArrayBasics\bin\Debug\net5.0\ref\ArrayBasics.dll
+C:\Users\adamh\Documents\GitHub\LearningCSharp\Collections\ArrayBasics\ArrayBasics\bin\Debug\net5.0\ArrayBasics.pdb
+C:\Users\adamh\Documents\GitHub\LearningCSharp\Collections\ArrayBasics\ArrayBasics\obj\Debug\net5.0\ArrayBasics.csproj.AssemblyReference.cache
+C:\Users\adamh\Documents\GitHub\LearningCSharp\Collections\ArrayBasics\ArrayBasics\obj\Debug\net5.0\ArrayBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamh\Documents\GitHub\LearningCSharp\Collections\ArrayBasics\ArrayBasics\obj\Debug\net5.0\ArrayBasics.AssemblyInfoInputs.cache
+C:\Users\adamh\Documents\GitHub\LearningCSharp\Collections\ArrayBasics\ArrayBasics\obj\Debug\net5.0\ArrayBasics.AssemblyInfo.cs
+C:\Users\adamh\Documents\GitHub\LearningCSharp\Collections\ArrayBasics\ArrayBasics\obj\Debug\net5.0\ArrayBasics.csproj.CoreCompileInputs.cache
+C:\Users\adamh\Documents\GitHub\LearningCSharp\Collections\ArrayBasics\ArrayBasics\obj\Debug\net5.0\ArrayBasics.dll
+C:\Users\adamh\Documents\GitHub\LearningCSharp\Collections\ArrayBasics\ArrayBasics\obj\Debug\net5.0\ref\ArrayBasics.dll
+C:\Users\adamh\Documents\GitHub\LearningCSharp\Collections\ArrayBasics\ArrayBasics\obj\Debug\net5.0\ArrayBasics.pdb
+C:\Users\adamh\Documents\GitHub\LearningCSharp\Collections\ArrayBasics\ArrayBasics\obj\Debug\net5.0\ArrayBasics.genruntimeconfig.cache

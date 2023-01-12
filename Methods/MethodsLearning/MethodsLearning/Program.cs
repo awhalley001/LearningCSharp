@@ -26,7 +26,9 @@ namespace MethodsLearning
 
         public static void WriteSomething(string a)
         {
+            // this is where I write.
             Console.WriteLine(a);
+            Console.WriteLine("Good On it");
         }
 
         public static double Multiply(double x, double y)
