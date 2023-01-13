@@ -1,0 +1,6 @@
+/home/adamhalley/github/LearningCSharp/Collections/ForEach/ForEach/bin/Debug/ForEach.exe
+/home/adamhalley/github/LearningCSharp/Collections/ForEach/ForEach/bin/Debug/ForEach.pdb
+/home/adamhalley/github/LearningCSharp/Collections/ForEach/ForEach/obj/Debug/ForEach.csproj.AssemblyReference.cache
+/home/adamhalley/github/LearningCSharp/Collections/ForEach/ForEach/obj/Debug/ForEach.csproj.CoreCompileInputs.cache
+/home/adamhalley/github/LearningCSharp/Collections/ForEach/ForEach/obj/Debug/ForEach.exe
+/home/adamhalley/github/LearningCSharp/Collections/ForEach/ForEach/obj/Debug/ForEach.pdb
